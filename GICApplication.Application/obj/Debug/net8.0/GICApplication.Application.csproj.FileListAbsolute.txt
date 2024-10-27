@@ -1,0 +1,15 @@
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Application\bin\Debug\net8.0\GICApplication.Application.deps.json
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Application\bin\Debug\net8.0\GICApplication.Application.dll
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Application\bin\Debug\net8.0\GICApplication.Application.pdb
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Application\bin\Debug\net8.0\GICApplication.Domain.dll
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Application\bin\Debug\net8.0\GICApplication.Domain.pdb
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Application\obj\Debug\net8.0\GICApplication.Application.csproj.AssemblyReference.cache
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Application\obj\Debug\net8.0\GICApplication.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Application\obj\Debug\net8.0\GICApplication.Application.AssemblyInfoInputs.cache
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Application\obj\Debug\net8.0\GICApplication.Application.AssemblyInfo.cs
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Application\obj\Debug\net8.0\GICApplication.Application.csproj.CoreCompileInputs.cache
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Application\obj\Debug\net8.0\GICAppli.AA464E9F.Up2Date
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Application\obj\Debug\net8.0\GICApplication.Application.dll
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Application\obj\Debug\net8.0\refint\GICApplication.Application.dll
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Application\obj\Debug\net8.0\GICApplication.Application.pdb
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Application\obj\Debug\net8.0\ref\GICApplication.Application.dll

@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "GICApplication.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "GICApplication.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GICApplication.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GICApplication.Application.dll": {}
+        }
+      },
+      "GICApplication.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/GICApplication.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GICApplication.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GICApplication.Application/1.0.0": {
+      "type": "project",
+      "path": "../GICApplication.Application/GICApplication.Application.csproj",
+      "msbuildProject": "../GICApplication.Application/GICApplication.Application.csproj"
+    },
+    "GICApplication.Domain/1.0.0": {
+      "type": "project",
+      "path": "../GICApplication.Domain/GICApplication.Domain.csproj",
+      "msbuildProject": "../GICApplication.Domain/GICApplication.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "GICApplication.Application >= 1.0.0",
+      "GICApplication.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Apsara\\Projects\\GIC\\GICApplication\\GICApplication.ConsoleApp\\GICApplication.ConsoleApp.csproj",
+      "projectName": "GICApplication.ConsoleApp",
+      "projectPath": "C:\\Apsara\\Projects\\GIC\\GICApplication\\GICApplication.ConsoleApp\\GICApplication.ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Apsara\\Projects\\GIC\\GICApplication\\GICApplication.ConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Apsara\\Projects\\GIC\\GICApplication\\GICApplication.Application\\GICApplication.Application.csproj": {
+              "projectPath": "C:\\Apsara\\Projects\\GIC\\GICApplication\\GICApplication.Application\\GICApplication.Application.csproj"
+            },
+            "C:\\Apsara\\Projects\\GIC\\GICApplication\\GICApplication.Domain\\GICApplication.Domain.csproj": {
+              "projectPath": "C:\\Apsara\\Projects\\GIC\\GICApplication\\GICApplication.Domain\\GICApplication.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

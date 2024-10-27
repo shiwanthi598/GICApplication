@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GICApplication.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "GICApplication.Application": "1.0.0",
+          "GICApplication.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GICApplication.ConsoleApp.dll": {}
+        }
+      },
+      "GICApplication.Application/1.0.0": {
+        "dependencies": {
+          "GICApplication.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GICApplication.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "GICApplication.Domain/1.0.0": {
+        "runtime": {
+          "GICApplication.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GICApplication.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GICApplication.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GICApplication.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

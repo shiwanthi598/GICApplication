@@ -1,0 +1,11 @@
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Domain\bin\Debug\net8.0\GICApplication.Domain.deps.json
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Domain\bin\Debug\net8.0\GICApplication.Domain.dll
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Domain\bin\Debug\net8.0\GICApplication.Domain.pdb
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Domain\obj\Debug\net8.0\GICApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Domain\obj\Debug\net8.0\GICApplication.Domain.AssemblyInfoInputs.cache
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Domain\obj\Debug\net8.0\GICApplication.Domain.AssemblyInfo.cs
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Domain\obj\Debug\net8.0\GICApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Domain\obj\Debug\net8.0\GICApplication.Domain.dll
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Domain\obj\Debug\net8.0\refint\GICApplication.Domain.dll
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Domain\obj\Debug\net8.0\GICApplication.Domain.pdb
+C:\Apsara\Projects\GIC\GICApplication\GICApplication.Domain\obj\Debug\net8.0\ref\GICApplication.Domain.dll
